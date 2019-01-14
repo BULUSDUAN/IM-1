@@ -354,3 +354,6 @@ ClientH5/build/
 ClientH5/library/
 ClientH5/local/
 ClientH5/temp/
+
+# ClientH5
+ClientH5/.objs/
