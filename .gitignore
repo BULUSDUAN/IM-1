@@ -328,3 +328,23 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+
+# ClientUnity
+ClientUnity/Library/
+ClientUnity/obj/
+ClientUnity/Temp/
+ClientUnity/Assets/.idea/
+ClientUnity/Assets/.DS_Store
+ClientUnity/Assets/SettingsUser/
+ClientUnity/Assets/Script.Lua/.idea/
+ClientUnity/DataOss/Common/Lua/.idea
+ClientUnity/ProjectUi/.objs/
+ClientUnity/Assembly-CSharp.csproj
+ClientUnity/Assembly-CSharp-Editor.csproj
+ClientUnity/Assembly-CSharp-Editor-firstpass.csproj
+ClientUnity/Assembly-CSharp-firstpass.csproj
+ClientUnity/ClientGithubUnity.csproj
+ClientUnity/ClientGithubUnity.Editor.csproj
+ClientUnity/ClientGithubUnity.Editor.Plugins.csproj
+ClientUnity/ClientGithubUnity.Plugins.csproj
+ClientUnity/ClientGithubUnity.sln
